@@ -1,0 +1,46 @@
+.font-awesome{
+    color:white;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.color-orange{
+    color: orange;
+}
+.color{
+    color: #363958;
+}
+.button-color{
+    width:170px;
+    height: 60px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color:#A4BC46;
+    border:none;
+}
+.background-color{
+    background-color: #FFFBF0;
+}
+.img-height{
+    
+    margin: auto;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin-top:8px;
+}
+h2{
+    font-weight: 700;
+    color:#FABE4C;
+}
+.menu{
+    font-weight: 600;
+    margin: 2px;
+    padding: 2px;
+}
+
+.text-color{
+    font-weight: 700;
+    color: orange;
+}
